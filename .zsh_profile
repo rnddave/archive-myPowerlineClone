@@ -1,0 +1,9 @@
+
+# powerline
+
+export PATH="$PATH:/Users/dickinsd/Library/Python/3.9/bin/"
+export LC_ALL=en_US.UTF-8
+powerline-daemon -q
+POWERLINE_ZSH_CONTINUATION=1
+POWERLINE_ZSH_SELECT=1
+source /Users/dickinsd/Library/Python/3.9/lib/python/site-packages/powerline/bindings/zsh/powerline.zsh
